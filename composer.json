@@ -1,5 +1,5 @@
 {
-    "name": "joetannenbaum/terminalia",
+    "name": "next-press/terminalia",
     "description": "Beautiful command line output for Laravel.",
     "type": "library",
     "require-dev": {
