@@ -23,10 +23,10 @@
     ],
     "require": {
         "spatie/fork": "^1.1",
-        "illuminate/collections": "^10.10",
-        "illuminate/console": "^10.10",
-        "illuminate/contracts": "^10.10",
-        "illuminate/support": "^10.10"
+        "illuminate/collections": "^11",
+        "illuminate/console": "^11",
+        "illuminate/contracts": "^11",
+        "illuminate/support": "^11"
     },
     "extra": {
         "laravel": {
